@@ -2,7 +2,7 @@
 
 I have used following tech-stack to develop this application
 
-- [x]MVVM: Used MVVM with ViewModel and LiveData to maintain updated state of UI during configuration change.
+- [x] MVVM: Used MVVM with ViewModel and LiveData to maintain updated state of UI during configuration change.
 - [x] Kotlin: Used kotlin for business, view, and test cases 100%. 
 - [x] RxJava : To fetch the response from API. 
 - [x] Retrofit : Called API with query params.
