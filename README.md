@@ -12,3 +12,12 @@ I have used following tech-stack to develop this application
 - [x] Offline : A toast message is shown to user when there is no internet. As soon as there is a internet connection application shows the result to user. 
 
 Note: If I had more time I could have done the better job in UI.   
+
+Test case report: 
+
+Espresso - 
+![alt text](https://github.com/jsin67/task-jaggrat/blob/master/Screen%20Shot%202019-08-08%20at%203.38.13%20PM.png)
+
+Mockito - 
+
+![alt text](https://github.com/jsin67/task-jaggrat/blob/master/Screen%20Shot%202019-08-08%20at%203.38.46%20PM.png)
