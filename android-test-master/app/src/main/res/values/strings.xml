@@ -1,0 +1,16 @@
+<resources>
+	<string name="app_name">android-test</string>
+	<string name="content_des">Profile Image</string>
+	<string name="follow">Follow</string>
+	<string name="block">Block</string>
+	<string name="done">Done</string>
+	<string name="date">Date %s</string>
+	<string name="reputation">Reputation: %s</string>
+	<string name="location">Location: %s</string>
+	<string name="status">Status: %s</string>
+	<string name="account_id">Account Id: %d</string>
+	<string name="display_name">Display Name: %s</string>
+	<string name="internet_warning">Please check your internet connection !!</string>
+	<string name="choose_an_options">Please choose an option to follow or block</string>
+	<string name="following">Following</string>
+</resources>
